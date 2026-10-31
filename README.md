@@ -64,5 +64,131 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-soldfetch-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://soldfetch.com/
+SoldFetch offers an eBay Sold Listings & Pricing API that returns up to 200 sold listings per request, including displayed prices, item details, and seller information. Designed for resellers, developers, and enterprises, the service provides free and paid plans, comprehensive documentation, pricing details, and contact support. It enables integration of eBay historical sales data into applications and AI agents.
+
+**Areas:** Company · eBay · Listings · Pricing · API · Reseller
+
+## soldfetch-com on APIs.io
+
+Everything profiled for soldfetch-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/soldfetch-com/](https://apis.io/providers/soldfetch-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [soldfetch-com Bulk Search API](https://apis.io/apis/soldfetch-com/soldfetch-com-bulk-search-api/) — The Bulk Search API from soldfetch-com — 1 operation(s) for bulk search.
+- [soldfetch-com Capabilities API](https://apis.io/apis/soldfetch-com/soldfetch-com-capabilities-api/) — The Capabilities API from soldfetch-com — 1 operation(s) for capabilities.
+- [soldfetch-com Item API](https://apis.io/apis/soldfetch-com/soldfetch-com-item-api/) — The Item API from soldfetch-com — 1 operation(s) for item.
+- [soldfetch-com Public API](https://apis.io/apis/soldfetch-com/soldfetch-com-public-api/) — The Public API from soldfetch-com — 1 operation(s) for public.
+- [soldfetch-com Rapidapi API](https://apis.io/apis/soldfetch-com/soldfetch-com-rapidapi-api/) — The Rapidapi API from soldfetch-com — 1 operation(s) for rapidapi.
+- [soldfetch-com Requests API](https://apis.io/apis/soldfetch-com/soldfetch-com-requests-api/) — The Requests API from soldfetch-com — 1 operation(s) for requests.
+- [soldfetch-com Scrape API](https://apis.io/apis/soldfetch-com/soldfetch-com-scrape-api/) — The Scrape API from soldfetch-com — 6 operation(s) for scrape.
+- [soldfetch-com Usage API](https://apis.io/apis/soldfetch-com/soldfetch-com-usage-api/) — The Usage API from soldfetch-com — 1 operation(s) for usage.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Soldfetch Com Agentic Access](https://apis.io/agentic-access/soldfetch-com/soldfetch-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [soldfetch-com API Rules](https://apis.io/rules/soldfetch-com/soldfetch-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Soldfetch Com Authentication](https://apis.io/security/soldfetch-com/soldfetch-com-authentication/)
+- [Soldfetch Com Domain Security](https://apis.io/security/soldfetch-com/soldfetch-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Soldfetch Com Scopes](https://apis.io/scopes/soldfetch-com/soldfetch-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Soldfetch Com Plans Pricing](https://apis.io/plans/soldfetch-com/soldfetch-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Soldfetch Com Rate Limits](https://apis.io/rate-limits/soldfetch-com/soldfetch-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://soldfetch.com/)
+- [Documentation](https://soldfetch.com/docs)
+- [Getting started](https://soldfetch.com/docs/quickstart)
+- [Pricing](https://soldfetch.com/pricing)
+- [Support](https://soldfetch.com/contact)
+- [Blog](https://soldfetch.com/blog)
+- [Terms of service](https://soldfetch.com/terms)
+- [Privacy policy](https://soldfetch.com/privacy)
+- [Status](https://soldfetch.com/status)
+
+## API Evangelist rating
+
+**Kin Score 55.2** — strong · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 43.3 |
+| Contract governance | 65.5 |
+| Operational transparency | 44.2 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 60.0 |
+
+**Agent readiness 43.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/soldfetch-com/](https://apis.io/providers/soldfetch-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for soldfetch-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/soldfetch-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
